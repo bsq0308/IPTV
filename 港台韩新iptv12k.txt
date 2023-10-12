@@ -1,256 +1,24 @@
-翡翠,http://iptv12k.com:35461/live/test167/12345/1021.m3u8
-明珠,http://iptv12k.com:35461/live/test167/12345/1020.m3u8
-无线新闻,http://iptv12k.com:35461/live/test167/12345/1012.m3u8
-J2,http://iptv12k.com:35461/live/test167/12345/1006.m3u8
-无线财经,http://iptv12k.com:35461/live/test167/12345/1012.m3u8
-TVB经典,http://iptv12k.com:35461/live/test167/12345/1003.m3u8
-TVB娱乐新闻,http://iptv12k.com:35461/live/test167/12345/1001.m3u8
-星河,http://iptv12k.com:35461/live/test167/12345/1000.m3u8
-有线603,http://iptv12k.com:35461/live/test167/12345/1023.m3u8
-有线18,http://iptv12k.com:35461/live/test167/12345/1022.m3u8
-有线新闻,http://iptv12k.com:35461/live/test167/12345/1018.m3u8
-有线体育,http://iptv12k.com:35461/live/test167/12345/1017.m3u8
-NOW直播,http://iptv12k.com:35461/live/test167/12345/1015.m3u8
-NOW财经,http://iptv12k.com:35461/live/test167/12345/1002.m3u8
-NOW体育,http://iptv12k.com:35461/live/test167/12345/1014.m3u8
-开电视,http://iptv12k.com:35461/live/test167/12345/1013.m3u8
-电影1,http://iptv12k.com:35461/live/test167/12345/1010.m3u8
-HITS,http://iptv12k.com:35461/live/test167/12345/1009.m3u8
-VIUTV,http://iptv12k.com:35461/live/test167/12345/1008.m3u8
-VIUTVSIX,http://iptv12k.com:35461/live/test167/12345/1007.m3u8
-RTHK 32,http://iptv12k.com:35461/live/test167/12345/1005.m3u8
-RTHK 31,http://iptv12k.com:35461/live/test167/12345/1004.m3u8
-香港凤凰,http://iptv12k.com:35461/live/test167/12345/999.m3u8
-凤凰资讯,http://iptv12k.com:35461/live/test167/12345/998.m3u8
-凤凰中文,http://iptv12k.com:35461/live/test167/12345/997.m3u8
-民视,http://iptv12k.com:35461/live/test167/12345/5204.m3u8
-TVBS精彩,http://iptv12k.com:35461/live/test167/12345/4842.m3u8
-壹新闻,http://iptv12k.com:35461/live/test167/12345/1293.m3u8
-年代新闻,http://iptv12k.com:35461/live/test167/12345/1292.m3u8
-中视,http://iptv12k.com:35461/live/test167/12345/1291.m3u8
-台视,http://iptv12k.com:35461/live/test167/12345/1290.m3u8
-公视,http://iptv12k.com:35461/live/test167/12345/1289.m3u8
-三立inews,http://iptv12k.com:35461/live/test167/12345/1288.m3u8
-三立都会,http://iptv12k.com:35461/live/test167/12345/1287.m3u8
-三立台湾,http://iptv12k.com:35461/live/test167/12345/1286.m3u8
-三立新闻,http://iptv12k.com:35461/live/test167/12345/1285.m3u8
-八大戏剧,http://iptv12k.com:35461/live/test167/12345/1284.m3u8
-八大综合,http://iptv12k.com:35461/live/test167/12345/1283.m3u8
-八大第一,http://iptv12k.com:35461/live/test167/12345/1282.m3u8
-八大娱乐,http://iptv12k.com:35461/live/test167/12345/1281.m3u8
-东森综合,http://iptv12k.com:35461/live/test167/12345/1280.m3u8
-中天亚洲 Asia,http://iptv12k.com:35461/live/test167/12345/1278.m3u8
-中天娱乐,http://iptv12k.com:35461/live/test167/12345/1277.m3u8
-中天新闻,http://iptv12k.com:35461/live/test167/12345/1276.m3u8
-东森财经,http://iptv12k.com:35461/live/test167/12345/1275.m3u8
-中视经典,http://iptv12k.com:35461/live/test167/12345/1274.m3u8
-中视菁采,http://iptv12k.com:35461/live/test167/12345/1273.m3u8
-TVBS,http://iptv12k.com:35461/live/test167/12345/1272.m3u8
-TVBS欢乐,http://iptv12k.com:35461/live/test167/12345/1271.m3u8
-FOX NEWS,http://iptv12k.com:35461/live/test167/12345/1270.m3u8
-HBO,http://iptv12k.com:35461/live/test167/12345/1266.m3u8
-HBO家庭,http://iptv12k.com:35461/live/test167/12345/1265.m3u8
-HBO强档,http://iptv12k.com:35461/live/test167/12345/1264.m3u8
-HBO原创,http://iptv12k.com:35461/live/test167/12345/1263.m3u8
-JET TV,http://iptv12k.com:35461/live/test167/12345/1262.m3u8
-星卫电影,http://iptv12k.com:35461/live/test167/12345/1261.m3u8
-美亚电影,http://iptv12k.com:35461/live/test167/12345/1260.m3u8
-美食星球,http://iptv12k.com:35461/live/test167/12345/1259.m3u8
-卫视电影,http://iptv12k.com:35461/live/test167/12345/1258.m3u8
-卫视中文,http://iptv12k.com:35461/live/test167/12345/1257.m3u8
-东森新闻,http://iptv12k.com:35461/live/test167/12345/1180.m3u8
-东森洋片,http://iptv12k.com:35461/live/test167/12345/1256.m3u8
-东森戏剧,http://iptv12k.com:35461/live/test167/12345/1255.m3u8
-东森电影,http://iptv12k.com:35461/live/test167/12345/1254.m3u8
-天映经典,http://iptv12k.com:35461/live/test167/12345/1253.m3u8
-CatchPlay电影,http://iptv12k.com:35461/live/test167/12345/1252.m3u8
-金光布袋戏,http://iptv12k.com:35461/live/test167/12345/1251.m3u8
-Smithsonian Channel,http://iptv12k.com:35461/live/test167/12345/1250.m3u8
-好莱坞电影,http://iptv12k.com:35461/live/test167/12345/1249.m3u8
-ELTA综合,http://iptv12k.com:35461/live/test167/12345/679.m3u8
-爱尔达影剧,http://iptv12k.com:35461/live/test167/12345/1248.m3u8
-星卫娱乐,http://iptv12k.com:35461/live/test167/12345/1247.m3u8
-罪案侦缉,http://iptv12k.com:35461/live/test167/12345/1246.m3u8
-TSN 1,http://iptv12k.com:35461/live/test167/12345/1245.m3u8
-TLC旅游生活,http://iptv12k.com:35461/live/test167/12345/1244.m3u8
-AXN,http://iptv12k.com:35461/live/test167/12345/1243.m3u8
-纬来戏剧,http://iptv12k.com:35461/live/test167/12345/1241.m3u8
-纬来综合,http://iptv12k.com:35461/live/test167/12345/1240.m3u8
-纬来精彩,http://iptv12k.com:35461/live/test167/12345/1239.m3u8
-纬来日本,http://iptv12k.com:35461/live/test167/12345/1238.m3u8
-纬来体育,http://iptv12k.com:35461/live/test167/12345/1237.m3u8
-纬来电影,http://iptv12k.com:35461/live/test167/12345/1236.m3u8
-动物星球,http://iptv12k.com:35461/live/test167/12345/1233.m3u8
-探索频道,http://iptv12k.com:35461/live/test167/12345/1231.m3u8
-探索科学,http://iptv12k.com:35461/live/test167/12345/1224.m3u8
-Animax,http://iptv12k.com:35461/live/test167/12345/1230.m3u8
-亚洲美食,http://iptv12k.com:35461/live/test167/12345/1229.m3u8
-NBA,http://iptv12k.com:35461/live/test167/12345/1227.m3u8
-TSN 4,http://iptv12k.com:35461/live/test167/12345/1225.m3u8
-EYETV旅游,http://iptv12k.com:35461/live/test167/12345/1223.m3u8
-国家地理野生,http://iptv12k.com:35461/live/test167/12345/1222.m3u8
-ELTA1,http://iptv12k.com:35461/live/test167/12345/1221.m3u8
-ELTA2,http://iptv12k.com:35461/live/test167/12345/1220.m3u8
-ELTA3,http://iptv12k.com:35461/live/test167/12345/1219.m3u8
-ELEVEN1,http://iptv12k.com:35461/live/test167/12345/1218.m3u8
-ELEVEN2,http://iptv12k.com:35461/live/test167/12345/1217.m3u8
-Warner TV,http://iptv12k.com:35461/live/test167/12345/1216.m3u8
-BBC lifestyle,http://iptv12k.com:35461/live/test167/12345/1215.m3u8
-BBC earth,http://iptv12k.com:35461/live/test167/12345/1210.m3u8
-Cinemax,http://iptv12k.com:35461/live/test167/12345/1214.m3u8
-Travel Channel,http://iptv12k.com:35461/live/test167/12345/1213.m3u8
-ESPN,http://iptv12k.com:35461/live/test167/12345/1212.m3u8
-momo亲子,http://iptv12k.com:35461/live/test167/12345/1209.m3u8
-DW,http://iptv12k.com:35461/live/test167/12345/1208.m3u8
-CNBC,http://iptv12k.com:35461/live/test167/12345/1207.m3u8
-历史频道,http://iptv12k.com:35461/live/test167/12345/1206.m3u8
-历史频道2,http://iptv12k.com:35461/live/test167/12345/1201.m3u8
-MTV LIVE,http://iptv12k.com:35461/live/test167/12345/1205.m3u8
-大爱,http://iptv12k.com:35461/live/test167/12345/1204.m3u8
-大爱2,http://iptv12k.com:35461/live/test167/12345/1203.m3u8
-人间卫视,http://iptv12k.com:35461/live/test167/12345/1202.m3u8
-新唐人亚太,http://iptv12k.com:35461/live/test167/12345/1200.m3u8
-KBS2,http://iptv12k.com:35461/live/test167/12345/3233.m3u8
-KBS,http://iptv12k.com:35461/live/test167/12345/3232.m3u8
-MBC,http://iptv12k.com:35461/live/test167/12345/3231.m3u8
-MBN,http://iptv12k.com:35461/live/test167/12345/3230.m3u8
-JTBC,http://iptv12k.com:35461/live/test167/12345/3229.m3u8
-SOOTV2,http://iptv12k.com:35461/live/test167/12345/3228.m3u8
-TVN,http://iptv12k.com:35461/live/test167/12345/3227.m3u8
-CHANNEL A,http://iptv12k.com:35461/live/test167/12345/3226.m3u8
-INET,http://iptv12k.com:35461/live/test167/12345/3225.m3u8
-YTN,http://iptv12k.com:35461/live/test167/12345/3224.m3u8
-OCN,http://iptv12k.com:35461/live/test167/12345/3223.m3u8
-OCN movies,http://iptv12k.com:35461/live/test167/12345/3222.m3u8
-迪斯尼,http://iptv12k.com:35461/live/test167/12345/3221.m3u8
-MBC电视剧,http://iptv12k.com:35461/live/test167/12345/3220.m3u8
-MBC sports+,http://iptv12k.com:35461/live/test167/12345/3219.m3u8
-Onstyle,http://iptv12k.com:35461/live/test167/12345/3218.m3u8
-TV CHOSUN,http://iptv12k.com:35461/live/test167/12345/3217.m3u8
-CBS,http://iptv12k.com:35461/live/test167/12345/3216.m3u8
-SPOTV,http://iptv12k.com:35461/live/test167/12345/3215.m3u8
-KBSN sports,http://iptv12k.com:35461/live/test167/12345/3214.m3u8
-MNET,http://iptv12k.com:35461/live/test167/12345/3213.m3u8
-TV,http://iptv12k.com:35461/live/test167/12345/3212.m3u8
-SBS plus,http://iptv12k.com:35461/live/test167/12345/3211.m3u8
-OCN thrills,http://iptv12k.com:35461/live/test167/12345/3210.m3u8
-TV,http://iptv12k.com:35461/live/test167/12345/3209.m3u8
-KBS joy,http://iptv12k.com:35461/live/test167/12345/3208.m3u8
-SBS Sports,http://iptv12k.com:35461/live/test167/12345/3207.m3u8
-SBS Golf,http://iptv12k.com:35461/live/test167/12345/3206.m3u8
-JTBC Golf,http://iptv12k.com:35461/live/test167/12345/3205.m3u8
-翡翠,http://iptv12k.com:35461/live/8032022060101/452381/1021.m3u8
-明珠,http://iptv12k.com:35461/live/8032022060101/452381/1020.m3u8
-无线新闻,http://iptv12k.com:35461/live/8032022060101/452381/1012.m3u8
-J2,http://iptv12k.com:35461/live/8032022060101/452381/1006.m3u8
-无线财经,http://iptv12k.com:35461/live/8032022060101/452381/1012.m3u8
-TVB经典,http://iptv12k.com:35461/live/8032022060101/452381/1003.m3u8
-TVB娱乐新闻,http://iptv12k.com:35461/live/8032022060101/452381/1001.m3u8
-星河,http://iptv12k.com:35461/live/8032022060101/452381/1000.m3u8
-有线603,http://iptv12k.com:35461/live/8032022060101/452381/1023.m3u8
-有线18,http://iptv12k.com:35461/live/8032022060101/452381/1022.m3u8
-有线新闻,http://iptv12k.com:35461/live/8032022060101/452381/1018.m3u8
-有线体育,http://iptv12k.com:35461/live/8032022060101/452381/1017.m3u8
-NOW直播,http://iptv12k.com:35461/live/8032022060101/452381/1015.m3u8
-NOW财经,http://iptv12k.com:35461/live/8032022060101/452381/1002.m3u8
-NOW体育,http://iptv12k.com:35461/live/8032022060101/452381/1014.m3u8
-开电视,http://iptv12k.com:35461/live/8032022060101/452381/1013.m3u8
-电影1,http://iptv12k.com:35461/live/8032022060101/452381/1010.m3u8
-HITS,http://iptv12k.com:35461/live/8032022060101/452381/1009.m3u8
-VIUTV,http://iptv12k.com:35461/live/8032022060101/452381/1008.m3u8
-VIUTVSIX,http://iptv12k.com:35461/live/8032022060101/452381/1007.m3u8
-RTHK 32,http://iptv12k.com:35461/live/8032022060101/452381/1005.m3u8
-RTHK 31,http://iptv12k.com:35461/live/8032022060101/452381/1004.m3u8
-香港凤凰,http://iptv12k.com:35461/live/8032022060101/452381/999.m3u8
-凤凰资讯,http://iptv12k.com:35461/live/8032022060101/452381/998.m3u8
-凤凰中文,http://iptv12k.com:35461/live/8032022060101/452381/997.m3u8
-民视,http://iptv12k.com:35461/live/8032022060101/452381/5204.m3u8
-TVBS精彩,http://iptv12k.com:35461/live/8032022060101/452381/4842.m3u8
-壹新闻,http://iptv12k.com:35461/live/8032022060101/452381/1293.m3u8
-年代新闻,http://iptv12k.com:35461/live/8032022060101/452381/1292.m3u8
-中视,http://iptv12k.com:35461/live/8032022060101/452381/1291.m3u8
-台视,http://iptv12k.com:35461/live/8032022060101/452381/1290.m3u8
-公视,http://iptv12k.com:35461/live/8032022060101/452381/1289.m3u8
-三立inews,http://iptv12k.com:35461/live/8032022060101/452381/1288.m3u8
-三立都会,http://iptv12k.com:35461/live/8032022060101/452381/1287.m3u8
-三立台湾,http://iptv12k.com:35461/live/8032022060101/452381/1286.m3u8
-三立新闻,http://iptv12k.com:35461/live/8032022060101/452381/1285.m3u8
-八大戏剧,http://iptv12k.com:35461/live/8032022060101/452381/1284.m3u8
-八大综合,http://iptv12k.com:35461/live/8032022060101/452381/1283.m3u8
-八大第一,http://iptv12k.com:35461/live/8032022060101/452381/1282.m3u8
-八大娱乐,http://iptv12k.com:35461/live/8032022060101/452381/1281.m3u8
-东森综合,http://iptv12k.com:35461/live/8032022060101/452381/1280.m3u8
-中天亚洲 Asia,http://iptv12k.com:35461/live/8032022060101/452381/1278.m3u8
-中天娱乐,http://iptv12k.com:35461/live/8032022060101/452381/1277.m3u8
-中天新闻,http://iptv12k.com:35461/live/8032022060101/452381/1276.m3u8
-东森财经,http://iptv12k.com:35461/live/8032022060101/452381/1275.m3u8
-中视经典,http://iptv12k.com:35461/live/8032022060101/452381/1274.m3u8
-中视菁采,http://iptv12k.com:35461/live/8032022060101/452381/1273.m3u8
-TVBS,http://iptv12k.com:35461/live/8032022060101/452381/1272.m3u8
-TVBS欢乐,http://iptv12k.com:35461/live/8032022060101/452381/1271.m3u8
-FOX NEWS,http://iptv12k.com:35461/live/8032022060101/452381/1270.m3u8
-HBO,http://iptv12k.com:35461/live/8032022060101/452381/1266.m3u8
-HBO家庭,http://iptv12k.com:35461/live/8032022060101/452381/1265.m3u8
-HBO强档,http://iptv12k.com:35461/live/8032022060101/452381/1264.m3u8
-HBO原创,http://iptv12k.com:35461/live/8032022060101/452381/1263.m3u8
-JET TV,http://iptv12k.com:35461/live/8032022060101/452381/1262.m3u8
-星卫电影,http://iptv12k.com:35461/live/8032022060101/452381/1261.m3u8
-美亚电影,http://iptv12k.com:35461/live/8032022060101/452381/1260.m3u8
-美食星球,http://iptv12k.com:35461/live/8032022060101/452381/1259.m3u8
-卫视电影,http://iptv12k.com:35461/live/8032022060101/452381/1258.m3u8
-卫视中文,http://iptv12k.com:35461/live/8032022060101/452381/1257.m3u8
-东森新闻,http://iptv12k.com:35461/live/8032022060101/452381/1180.m3u8
-东森洋片,http://iptv12k.com:35461/live/8032022060101/452381/1256.m3u8
-东森戏剧,http://iptv12k.com:35461/live/8032022060101/452381/1255.m3u8
-东森电影,http://iptv12k.com:35461/live/8032022060101/452381/1254.m3u8
-天映经典,http://iptv12k.com:35461/live/8032022060101/452381/1253.m3u8
-CatchPlay电影,http://iptv12k.com:35461/live/8032022060101/452381/1252.m3u8
-金光布袋戏,http://iptv12k.com:35461/live/8032022060101/452381/1251.m3u8
-Smithsonian Channel,http://iptv12k.com:35461/live/8032022060101/452381/1250.m3u8
-好莱坞电影,http://iptv12k.com:35461/live/8032022060101/452381/1249.m3u8
-ELTA综合,http://iptv12k.com:35461/live/8032022060101/452381/679.m3u8
-爱尔达影剧,http://iptv12k.com:35461/live/8032022060101/452381/1248.m3u8
-星卫娱乐,http://iptv12k.com:35461/live/8032022060101/452381/1247.m3u8
-罪案侦缉,http://iptv12k.com:35461/live/8032022060101/452381/1246.m3u8
-TSN 1,http://iptv12k.com:35461/live/8032022060101/452381/1245.m3u8
-TLC旅游生活,http://iptv12k.com:35461/live/8032022060101/452381/1244.m3u8
-AXN,http://iptv12k.com:35461/live/8032022060101/452381/1243.m3u8
-纬来戏剧,http://iptv12k.com:35461/live/8032022060101/452381/1241.m3u8
-纬来综合,http://iptv12k.com:35461/live/8032022060101/452381/1240.m3u8
-纬来精彩,http://iptv12k.com:35461/live/8032022060101/452381/1239.m3u8
-纬来日本,http://iptv12k.com:35461/live/8032022060101/452381/1238.m3u8
-纬来体育,http://iptv12k.com:35461/live/8032022060101/452381/1237.m3u8
-纬来电影,http://iptv12k.com:35461/live/8032022060101/452381/1236.m3u8
-动物星球,http://iptv12k.com:35461/live/8032022060101/452381/1233.m3u8
-探索频道,http://iptv12k.com:35461/live/8032022060101/452381/1231.m3u8
-探索科学,http://iptv12k.com:35461/live/8032022060101/452381/1224.m3u8
-Animax HD,http://iptv12k.com:35461/live/8032022060101/452381/1230.m3u8
-亚洲美食,http://iptv12k.com:35461/live/8032022060101/452381/1229.m3u8
-NBA,http://iptv12k.com:35461/live/8032022060101/452381/1227.m3u8
-TSN 4,http://iptv12k.com:35461/live/8032022060101/452381/1225.m3u8
-EYETV旅游,http://iptv12k.com:35461/live/8032022060101/452381/1223.m3u8
-国家地理野生,http://iptv12k.com:35461/live/8032022060101/452381/1222.m3u8
-ELTA1,http://iptv12k.com:35461/live/8032022060101/452381/1221.m3u8
-ELTA2,http://iptv12k.com:35461/live/8032022060101/452381/1220.m3u8
-ELTA3,http://iptv12k.com:35461/live/8032022060101/452381/1219.m3u8
-ELEVEN1,http://iptv12k.com:35461/live/8032022060101/452381/1218.m3u8
-ELEVEN2,http://iptv12k.com:35461/live/8032022060101/452381/1217.m3u8
-Warner TV,http://iptv12k.com:35461/live/8032022060101/452381/1216.m3u8
-BBC lifestyle,http://iptv12k.com:35461/live/8032022060101/452381/1215.m3u8
-BBC earth,http://iptv12k.com:35461/live/8032022060101/452381/1210.m3u8
-Cinemax,http://iptv12k.com:35461/live/8032022060101/452381/1214.m3u8
-Travel Channel,http://iptv12k.com:35461/live/8032022060101/452381/1213.m3u8
-ESPN,http://iptv12k.com:35461/live/8032022060101/452381/1212.m3u8
-MOMO亲子,http://iptv12k.com:35461/live/8032022060101/452381/1209.m3u8
-DW,http://iptv12k.com:35461/live/8032022060101/452381/1208.m3u8
-CNBC,http://iptv12k.com:35461/live/8032022060101/452381/1207.m3u8
-历史频道,http://iptv12k.com:35461/live/8032022060101/452381/1206.m3u8
-历史频道2,http://iptv12k.com:35461/live/8032022060101/452381/1201.m3u8
-MTV LIVE,http://iptv12k.com:35461/live/8032022060101/452381/1205.m3u8
-大爱电视,http://iptv12k.com:35461/live/8032022060101/452381/1204.m3u8
-大爱2,http://iptv12k.com:35461/live/8032022060101/452381/1203.m3u8
-人间卫视,http://iptv12k.com:35461/live/8032022060101/452381/1202.m3u8
-新唐人亚太台,http://iptv12k.com:35461/live/8032022060101/452381/1200.m3u8
+[TW]SBN全球财经台,http://iptv12k.com:35461/live/test167/12345/1251.m3u8
+[TW]SBN全球财经台,http://iptv12k.com:35461/live/test167/12345/1277.m3u8
+[TW]AFN亚洲美食,http://iptv12k.com:35461/live/test167/12345/1229.m3u8
+[TW]动物星球,http://iptv12k.com:35461/live/test167/12345/1233.m3u8
+[TW]好莱坞电影,http://iptv12k.com:35461/live/test167/12345/1249.m3u8
+[TW]AXN b,http://iptv12k.com:35461/live/test167/12345/2127.m3u8
+[TW]AXN,http://iptv12k.com:35461/live/test167/12345/1885.m3u8
+[TW]CATCHPLAY电影台,http://iptv12k.com:35461/live/test167/12345/1252.m3u8
+[TW]CINEMAX,http://iptv12k.com:35461/live/test167/12345/1214.m3u8
+[TW]CatchPlay電影台,http://iptv12k.com:35461/live/test167/12345/1865.m3u8
+[TW]Ci罪案侦缉频道,http://iptv12k.com:35461/live/test167/12345/1246.m3u8
+[TW]DW,http://iptv12k.com:35461/live/test167/12345/1208.m3u8
+[TW]HBO HD,http://iptv12k.com:35461/live/test167/12345/1893.m3u8
+[TW]HBO HD,http://iptv12k.com:35461/live/test167/12345/1266.m3u8
+[TW]HBO原创,http://iptv12k.com:35461/live/test167/12345/1887.m3u8
+[TW]HBO原创,http://iptv12k.com:35461/live/test167/12345/1263.m3u8
+[TW]HBO家庭,http://iptv12k.com:35461/live/test167/12345/1265.m3u8
+[TW]HBO强档,http://iptv12k.com:35461/live/test167/12345/1264.m3u8
+[TW]HISTORY,http://iptv12k.com:35461/live/test167/12345/1206.m3u8
+[TW]HISTORY2,http://iptv12k.com:35461/live/test167/12345/1201.m3u8
+
 KBS2,http://iptv12k.com:35461/live/8032022060101/452381/3233.m3u8
 KBS,http://iptv12k.com:35461/live/8032022060101/452381/3232.m3u8
 MBC,http://iptv12k.com:35461/live/8032022060101/452381/3231.m3u8
@@ -281,177 +49,14 @@ SBS Sports,http://iptv12k.com:35461/live/8032022060101/452381/3207.m3u8
 SBS Golf,http://iptv12k.com:35461/live/8032022060101/452381/3206.m3u8
 JTBC Golf,http://iptv12k.com:35461/live/8032022060101/452381/3205.m3u8
 
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml.gz" url-tvg="https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml.gz" refresh="1440" max-conn="1" refresh="24" m3uautoload="1"
 
+
+
+#EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-chno="868" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png",Celestial Movies (channel 868)
+http://iptv12k.com:35461/80201033004/324542/9129
+#EXTINF:-1 tvg-id="CelestialClassicMovies.hk" tvg-chno="869" tvg-logo="https://poster.starhubgo.com/Linear_channels2/869_1920x1080_HTV.png",Celestial Classic Movies 新加坡
+http://iptv12k.com:35461/80201033004/324542/9126
 #EXTINF:-1 tvg-id="Channel5.sg" tvg-chno="102" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png",Channel 5 (channel 102)
-http://iptv12k.com:35461/test167/12345/9161
-#EXTINF:-1 tvg-id="Channel8.sg" tvg-chno="103" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png",Channel 8 (channel 103)
-http://iptv12k.com:35461/test167/12345/9160
-#EXTINF:-1 tvg-id="Suria.sg" tvg-chno="104" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png",Suria (channel 104)
-http://iptv12k.com:35461/test167/12345/331
-#EXTINF:-1 tvg-id="Vasantham.sg" tvg-chno="105" tvg-logo="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png",Vasantham (channel 105)
-http://iptv12k.com:35461/test167/12345/333
-#EXTINF:-1 tvg-id="CNA.sg" tvg-chno="106" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",CNA (channel 106)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZDQnRHMThxNTNfTGk4dTVTQ3BTWHJpTzl3SVlKZHdPd2VndFMxc1VLNU90SFloZUU0YldIZG5leTlmalBHMk9fUy1RNWxBMGJBVkR4ZjZyY08zV3BoOEQycTU0MjdBNHBva1RISFAySVBVY3JPY2JMQ3RwM2JDSW12Zk9YRDdLX1BTOFJKOUlmUVoxTUE1U0Y2V2prek5JVnhCYlhsS2tlV3lUMktYYUwzZzQ0QmpCVmwxZjRTT0dMVXNtaXNSbUlKTlBfdWRfVmNZR1pyX3dGY0dSYjE0WHdBXzkyMEVNNnNnVTdQSzVSTG5ZMFJxR2tZdHlOMDlRWnJTaUJWZUlBLUpPUm8zN1I5YXRqX0RUeWRFMkY2a1NEX1g5Z2M2RW5MZ3o1V3pxb1paQzNVdmtEbkFIOE8xWjh1dmVCRmpBbmc9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxMTYiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NoNV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkNCdEcxOHE1M19MaTh1NVNDcFNYcmlPOXdJWUpkd093ZWd0UzFzVUs1T3RIWWhlRTRiV0hkbmV5OWZqUEcyT19TLVE1bEEwYkFWRHhmNnJjTzNXcGg4RDJxNTQyN0E0cG9rVEhIUDJJUFVjck9jYkxDdHAzYkNJbXZmT1hEN0tfUFM4Uko5SWZRWjFNQTVTRjZXamt6TklWeEJiWGxLa2VXeVQyS1hhTDNnNDRCakJWbDFmNFNPR0xVc21pc1JtSUpOUF91ZF9WY1lHWnJfd0ZjR1JiMTRYd0FfOTIwRU02c2dVN1BLNVJMblkwUnFHa1l0eU4wOVFaclNpQlZlSUEtSk9SbzM3UjlhdGpfRFR5ZEUyRjZrU0RfWDlnYzZFbkxnejVXenFvWlpDM1V2a0RuQUg4TzFaOHV2ZUJGakFuZz09IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=%2bC71%2ft3MJQJxGE7dQS%2bt%2bX1OZpk%3d
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/197985/assetType/media/assetFileId/5754149/contextType/PLAYBACK/isAltUrl/False/a.mpd
-#EXTINF:-1 tvg-id="ChannelU.sg" tvg-chno="107" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png",Channel U (channel 107)
-http://iptv12k.com:35461/test167/12345/9159
-#EXTINF:-1 tvg-id="HubECity.sg" tvg-chno="111" tvg-logo="https://poster.starhubgo.com/Linear_channels2/111_1920x1080_HTV.png",Hub E City
-http://iptv12k.com:35461/test167/12345/9140
-#EXTINF:-1 tvg-id="CitraEntertainment.id" tvg-chno="115" tvg-logo="https://poster.starhubgo.com/Linear_channels2/115_1920x1080_HTV.png",Citra Entertainment
-http://iptv12k.com:35461/test167/12345/9131
-#EXTINF:-1 tvg-id="Karisma.id" tvg-chno="116" tvg-logo="https://poster.starhubgo.com/Linear_channels2/116_1920x1080_HTV.png",Karisma
-http://iptv12k.com:35461/test167/12345/9112
-#EXTINF:-1 tvg-id="AstroWarna.my" tvg-chno="118" tvg-logo="https://poster.starhubgo.com/Linear_channels2/118_1920x1080_HTV.png",Astro Warna
-http://iptv12k.com:35461/test167/12345/9169
-#EXTINF:-1 tvg-id="AstroSensasi.sg" tvg-chno="123" tvg-logo="https://poster.starhubgo.com/Linear_channels2/123_1920x1080_HTV.png",Astro Sensasi
-http://king-tv.online:8080//live/gisle@/FDPWGufCmY/372542.ts
-##https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/starhub/astrosensasi.m3u8
-#EXTINF:-1 tvg-id="ZeeTV.in" tvg-chno="125" tvg-logo="https://poster.starhubgo.com/Linear_channels2/125_1920x1080_HTV.png",Zee TV
-http://iptv12k.com:35461/test167/12345/9125
-#EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in" tvg-chno="127" tvg-logo="https://poster.starhubgo.com/Linear_channels2/127_1920x1080_HTV.png",Sony Entertainment Television
-http://221.120.204.4:80/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="SonyMax.in" tvg-chno="131" tvg-logo="https://poster.starhubgo.com/Linear_channels2/11_1920x1080_HTV.png",Sony Max
-http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ANC.ph" tvg-chno="143" tvg-logo="https://poster.starhubgo.com/Linear_channels2/143_1920x1080_HTV.png",ANC (channel 143)
-https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-anc-global/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="TheFilipinoChannelAsia.us" tvg-chno="144" tvg-logo="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png",TFC
-http://iptv12k.com:35461/test167/12345/9150
-#EXTINF:-1 tvg-id="CinemaOneGlobal.ph" tvg-chno="145" tvg-logo="https://poster.starhubgo.com/Linear_channels2/145_1920x1080_HTV.png",Cinema One Global
-https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-cinemaone/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="TV5MondeAsia.fr" tvg-chno="152" tvg-logo="https://poster.starhubgo.com/Linear_channels2/152_1920x1080_HTV.png",TV5Monde Asie
-https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
-#EXTINF:-1 tvg-id="DWEnglish.de" tvg-chno="153" tvg-logo="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png",DW English
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="NDTV24x7.in" tvg-chno="162" tvg-logo="https://poster.starhubgo.com/Linear_channels2/162_1920x1080_HTV.png",NDTV 24X7 
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
-#EXTINF:-1 tvg-id="HubSports1.sg" tvg-chno="201" tvg-logo="https://poster.starhubgo.com/Linear_channels2/201_1920x1080_HTV.png",Hub Sports 1
-http://iptv12k.com:35461/test167/12345/9158
-#EXTINF:-1 tvg-id="HubSports2.sg" tvg-chno="202" tvg-logo="https://poster.starhubgo.com/Linear_channels2/202_1920x1080_HTV.png",Hub Sports 2
-http://iptv12k.com:35461/test167/12345/9157
-#EXTINF:-1 tvg-id="HubSports3.sg" tvg-chno="204" tvg-logo="https://poster.starhubgo.com/Linear_channels2/204_1920x1080_HTV.png",Hub Sports 3
-http://iptv12k.com:35461/test167/12345/9156
-#EXTINF:-1 tvg-id="SPOTV.kr" tvg-chno="205" tvg-logo="https://poster.starhubgo.com/Linear_channels2/205_1920x1080_HTV.png",SPOTV
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
-#EXTINF:-1 tvg-id="SPOTV2.kr" tvg-chno="206" tvg-logo="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png",SPOTV2
-https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-id="PremierSportsAsia.ie" tvg-chno="207" tvg-logo="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png",Premier Sports
-http://iptv12k.com:35461/test167/12345/9116
-#EXTINF:-1 tvg-id="beINSports2.qa" tvg-chno="211" tvg-logo="https://poster.starhubgo.com/Linear_channels2/211_1920x1080_HTV.png",beIN Sports 2
-http://iptv12k.com:35461/test167/12345/9154
-#EXTINF:-1 tvg-id="beINSports.qa" tvg-chno="213" tvg-logo="https://poster.starhubgo.com/Linear_channels2/213_1920x1080_HTV.png",beIN Sports
-http://iptv12k.com:35461/test167/12345/9155
-#EXTINF:-1 tvg-id="beINSports3.qa" tvg-chno="214" tvg-logo="https://poster.starhubgo.com/Linear_channels2/214_1920x1080_HTV.png",beIN Sports 3
-http://iptv12k.com:35461/test167/12345/9153
-#EXTINF:-1 tvg-id="NBATVInternational.us" tvg-chno="217" tvg-logo="https://poster.starhubgo.com/Linear_channels2/217_1920x1080_HTV.png",NBA TV
-http://iptv12k.com:35461/test167/12345/9152
-#EXTINF:-1 tvg-id="CBeebiesAsia.uk" tvg-chno="303" tvg-logo="https://poster.starhubgo.com/Linear_channels2/303_1920x1080_HTV.png",CBeebies (channel 303)
-http://iptv12k.com:35461/test167/12345/9128
-#EXTINF:-1 tvg-id="NickJrAsia.sg" tvg-chno="304" tvg-logo="https://poster.starhubgo.com/Linear_channels2/304_1920x1080_HTV.png",Nick Jr.
-http://iptv12k.com:35461/64920220731001/432158/290
-#EXTINF:-1 tvg-id="DreamWorksChannelAsia.us" tvg-chno="307" tvg-logo="https://poster.starhubgo.com/Linear_channels2/606_1920x1080_HTV.png",DreamWorks Channel (channel 307)
-http://iptv12k.com:35461/test167/12345/9132
-#EXTINF:-1 tvg-id="NickelodeonAsia.sg" tvg-chno="314" tvg-logo="https://poster.starhubgo.com/Linear_channels2/314_1920x1080_HTV.png",Nickelodeon
-http://iptv12k.com:35461/test167/12345/9122
-#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-chno="316" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png",Cartoon Network
-http://iptv12k.com:35461/test167/12345/9127
-#EXTINF:-1 tvg-id="BoomerangAsia.sg" tvg-chno="317" tvg-logo="https://poster.starhubgo.com/Linear_channels2/317_1920x1080_HTV.png",Boomerang
-http://203.77.246.50:5000/udp/239.1.2.158:5000
-#EXTINF:-1 tvg-id="BBCEarthAsia.uk" tvg-chno="407" tvg-logo="https://poster.starhubgo.com/Linear_channels2/407_1920x1080_HTV.png",BBC Earth
-http://iptv12k.com:35461/test167/12345/9120
-#EXTINF:-1 tvg-id="NationalGeographicHDSingapore.sg" tvg-chno="411" tvg-logo="https://poster.starhubgo.com/Linear_channels2/411_1920x1080_HTV.png",National Geographic (channel 411)
-http://iptv12k.com:35461/test167/12345/9144
-#EXTINF:-1 tvg-id="NationalGeographicWildHDSingapore.sg" tvg-chno="413" tvg-logo="https://poster.starhubgo.com/Linear_channels2/413_1920x1080_HTV.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",National Geographic Wild (channel 413)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-https://livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="SmithsonianChannelAsia.us" tvg-chno="415" tvg-logo="https://poster.starhubgo.com/Linear_channels2/415_1920x1080_HTV.png",Smithsonian Channel (channel 415)
-https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="LoveNature.ca" tvg-chno="416" tvg-logo="https://poster.starhubgo.com/Linear_channels2/416_1920x1080_HTV.png",Love Nature 4K (channel 416)
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="TravelxpHD.in" tvg-chno="427" tvg-logo="https://poster.starhubgo.com/Linear_channels2/427_1920x1080_HTV.png",Travelxp HD (channel 427)
-https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCLifestyleAsia.uk" tvg-chno="432" tvg-logo="https://poster.starhubgo.com/Linear_channels2/432_1920x1080_HTV.png",BBC Lifestyle (channel 432)
-http://iptv12k.com:35461/test167/12345/9121
-#EXTINF:-1 tvg-id="Makeful.ca" tvg-chno="436" tvg-logo="https://poster.starhubgo.com/Linear_channels2/436_1920x1080_HTV.png",Makeful
-http://iptv12k.com:35461/test167/12345/9143
-#EXTINF:-1 tvg-id="FashionTVAsia.fr" tvg-chno="443" tvg-logo="https://poster.starhubgo.com/Linear_channels2/443_1920x1080_HTV.png",FashionTV Singapore (channel 443)
-https://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ABCAustraliaAsia.au" tvg-chno="447" tvg-logo="https://poster.starhubgo.com/Linear_channels2/447_1920x1080_HTV.png",ABC Australia (channel 447)
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 tvg-id="RockEntertainment.sg" tvg-chno="509" tvg-logo="https://poster.starhubgo.com/Linear_channels2/509_1920x1080_HTV.png",ROCK Entertainment (channel 509)
-http://iptv12k.com:35461/test167/12345/9124
-#EXTINF:-1 tvg-id="AXNHDSingapore.sg" tvg-chno="511" tvg-logo="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png",AXN (channel 511)
-http://iptv12k.com:35461/test167/12345/9118
-#EXTINF:-1 tvg-id="HitsMovies.sg" tvg-chno="512" tvg-logo="https://poster.starhubgo.com/Linear_channels2/512_1920x1080_HTV.png",Hits Movies
-http://iptv12k.com:35461/test167/12345/9138
-#EXTINF:-1 tvg-id="LifetimeAsia.us" tvg-chno="514" tvg-logo="https://poster.starhubgo.com/Linear_channels2/514_1920x1080_HTV.png",Lifetime
-http://iptv12k.com:35461/64920220731001/432158/218
-#EXTINF:-1 tvg-id="WarnerTVAsia.us" tvg-chno="515" tvg-logo="https://poster.starhubgo.com/Linear_channels2/515_1920x1080_HTV.png",WarnerTV
-http://iptv12k.com:35461/test167/12345/9151
-#EXTINF:-1 tvg-id="Hits.sg" tvg-chno="519" tvg-logo="https://poster.starhubgo.com/Linear_channels2/519_1920x1080_HTV.png",Hits (channel 519)
-http://210.210.155.37/dr9445/h/h37/index.m3u8
-#EXTINF:-1 tvg-id="AnimaxAsia.sg" tvg-chno="532" tvg-logo="https://poster.starhubgo.com/Linear_channels2/532_1920x1080_HTV.png",Animax (channel 532)
-http://iptv12k.com:35461/test167/12345/9113
-#EXTINF:-1 tvg-id="HBOAsia.sg" tvg-chno="601" tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png",HBO (channel 601)
-http://iptv12k.com:35461/test167/12345/9137
-#EXTINF:-1 tvg-id="HBOSignatureAsia.sg" tvg-chno="603" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png",HBO Signature (channel 603)
-http://iptv12k.com:35461/test167/12345/9136
-#EXTINF:-1 tvg-id="HBOFamilyAsia.sg" tvg-chno="604" tvg-logo="https://poster.starhubgo.com/Linear_channels2/604_1920x1080_HTV.png",HBO Family (channel 604)
-http://iptv12k.com:35461/test167/12345/9134
-#EXTINF:-1 tvg-id="HBOHitsAsia.sg" tvg-chno="605" tvg-logo="https://poster.starhubgo.com/Linear_channels2/605_1920x1080_HTV.png",HBO Hits (channel 605)
-http://iptv12k.com:35461/test167/12345/9135
-#EXTINF:-1 tvg-id="CinemaxSingapore.sg" tvg-chno="611" tvg-logo="https://poster.starhubgo.com/Linear_channels2/611_1920x1080_HTV.png",Cinemax (channel 611)
-http://iptv12k.com:35461/test167/12345/9130
-#EXTINF:-1 tvg-id="CinemaWorld.my" tvg-chno="613" tvg-logo="https://poster.starhubgo.com/Linear_channels2/613_1920x1080_HTV.png",CinemaWorld (channel 613)
-http://210.210.155.37/dr9445/h/h04/index.m3u8
-#EXTINF:-1 tvg-id="ParamountNetworkSingapore.sg" tvg-chno="620" tvg-logo="https://poster.starhubgo.com/Linear_channels2/620_1920x1080_HTV.png",Paramount Network
-http://iptv12k.com:35461/test167/12345/9117
-#EXTINF:-1 tvg-id="BBCWorldNewsAsiaPacific.uk" tvg-chno="701" tvg-logo="https://poster.starhubgo.com/Linear_channels2/701_1920x1080_HTV.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",BBC World News (channel 701)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-https://livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-chno="702" tvg-logo="https://poster.starhubgo.com/Linear_channels2/702_1920x1080_HTV.png",Fox News Channel (channel 702)
-http://titanlivetv.com:8080/live/8cEW8XH37tDT/GP4qLxWhcCkd/31093.m3u8
-#EXTINF:-1 tvg-id="SkyNewsHDAustralia.au" tvg-chno="703" tvg-logo="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png",Sky News (channel 703)
-https://siloh.pluto.tv/lilo/production/SkyNews/master_1.m3u8
-#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-chno="704" tvg-logo="https://poster.starhubgo.com/Linear_channels2/704_1920x1080_HTV.png",Euronews English
-https://euronews.alteox.app/hls/en_stream.m3u8
-#EXTINF:-1 tvg-id="CNBCAsia.sg" tvg-chno="707" tvg-logo="https://poster.starhubgo.com/Linear_channels2/707_1920x1080_HTV.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",CNBC (channel 707)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-https://livecdn.fptplay.net/sdb/cnbc_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BloombergTVAsiaPacific.hk" tvg-chno="708" tvg-logo="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png",Bloomberg Television
-https://www.bloomberg.com/media-manifest/streams/asia.m3u8
-#EXTINF:-1 tvg-id="CNNInternationalAsiaPacific.hk" tvg-chno="711" tvg-logo="https://poster.starhubgo.com/Linear_channels2/711_1920x1080_HTV.png",CNN International (channel 711)
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="CGTN.cn" tvg-chno="722" tvg-logo="https://poster.starhubgo.com/Linear_channels2/722_1920x1080_HTV.png",CGTN
-http://live.cgtn.com/1000/prog_index.m3u8#https://news.cgtn.com/resource/live/english/cgtn-news.m3u8#http://117.148.179.174/TVOD/88888888/224/3221231592/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4Asia.cn" tvg-chno="801" tvg-logo="https://poster.starhubgo.com/Linear_channels2/801_1920x1080_HTV.png",CCTV4 (channel 801)
-http://39.134.115.163:8080/PLTV/88888910/224/3221225621/.m3u8
-#EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" tvg-chno="805" tvg-logo="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png",Phoenix Chinese Channel (channel 805)
-https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-#EXTINF:-1 tvg-id="PhoenixInfonewsChannel.hk" tvg-chno="806" tvg-logo="https://poster.starhubgo.com/Linear_channels2/806_1920x1080_HTV.png",Phoenix InfoNews Channel (channel 806)
-https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
-#EXTINF:-1 tvg-id="TVBSNews.tw" tvg-chno="808" tvg-logo="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png",TVBS News
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20103
-#EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-chno="811" tvg-logo="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png",NHK World Premium (channel 811)
-https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-chno="812" tvg-logo="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png",NHK World (channel 812)
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 tvg-id="GEM.sg" tvg-chno="814" tvg-logo="https://poster.starhubgo.com/Linear_channels2/814_1920x1080_HTV.png",GEM TV Asia (channel 814)
-http://iptv12k.com:35461/test167/12345/9133
-#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-chno="815" tvg-logo="https://poster.starhubgo.com/Linear_channels2/815_1920x1080_HTV.png",KBS World (channel 815)
-https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="ArirangTV.kr" tvg-chno="817" tvg-logo="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png",Arirang (channel 817)
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NowJelli.hk" tvg-chno="821" tvg-logo="https://poster.starhubgo.com/Linear_channels2/821_1920x1080_HTV.png",Now Jelli (channel 821)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2I3YzU3OWQtY2Y1MS0zYTMyLTgyMzMtZGZiNGEzZDFhNmRi
-http://1.9.62.158/PLTV/88888888/224/3221227559/3221227559.mpd
-#EXTINF:-1 tvg-id="StarChineseChannelInternational.hk" tvg-chno="822" tvg-logo="https://poster.starhubgo.com/Linear_channels2/822_1920x1080_HTV.png",Star Chinese Channel
-http://iptv12k.com:35461/test167/12345/9148
-#EXTINF:-1 tvg-id="OneTVAsia.sg" tvg-chno="823" tvg-logo="https://poster.starhubgo.com/Linear_channels2/823_1920x1080_HTV.png",ONE TV Asia (channel 823)
-http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
-#EXTINF:-1 tvg-id="TVNAsia.hk" tvg-chno="824" tvg-#EXTINF:-1 tvg-id="Channel5.sg" tvg-chno="102" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png",Channel 5 (channel 102)
 http://iptv12k.com:35461/80201033004/324542/9161
 #EXTINF:-1 tvg-id="Channel8.sg" tvg-chno="103" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png",Channel 8 (channel 103)
 http://iptv12k.com:35461/80201033004/324542/9160
@@ -544,17 +149,329 @@ http://iptv12k.com:35461/80201033004/324542/9114
 http://iptv12k.com:35461/80201033004/324542/9149
 #EXTINF:-1 tvg-id="StarChineseMoviesSouthEastAsia.hk" tvg-chno="866" tvg-logo="https://poster.starhubgo.com/Linear_channels2/866_1920x1080_HTV.png",Star Chinese Movies
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/780
-#EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-chno="868" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png",Celestial Movies (channel 868)
-http://iptv12k.com:35461/80201033004/324542/9129
-#EXTINF:-1 tvg-id="CelestialClassicMovies.hk" tvg-chno="869" tvg-logo="https://poster.starhubgo.com/Linear_channels2/869_1920x1080_HTV.png",Celestial Classic Movies 新加坡
-http://iptv12k.com:35461/80201033004/324542/9126
-#EXTINF:-1 tvg-id="CelestialClassicMovies.hk" tvg-chno="869" tvg-logo="https://poster.starhubgo.com/Linear_channels2/869_1920x1080_HTV.png",Celestial Classic Movies (channel 869)
-http://iptv12k.com:35461/80201033004/324542/1253
-#EXTINF:-1 tvg-id="CelestialClassicMovies.hk" tvg-chno="869" tvg-logo="https://poster.starhubgo.com/Linear_channels2/869_1920x1080_HTV.png",Celestial Classic Movies (channel 869)
-http://iptv12k.com:35461/80201033004/324542/1871
 
 
 
+#EXTINF:-1,MTV HD+
+http://iptv12k.com:35461/80203091402/213445/8741
+#EXTINF:-1,TSN 2 SPORTS
+http://iptv12k.com:35461/80203091402/213445/10810
+#EXTINF:-1 group-title="Tataplay",Colors Cineplex HD CRICKET
+http://iptv12k.com:35461/80203091402/213445/8910
+#EXTINF:-1,TSN 1 SPORTS
+http://iptv12k.com:35461/80203091402/213445/10812
+#EXTINF:-1,TSN 1 TL
+http://iptv12k.com:35461/80203091402/213445/10811
+#EXTINF:-1,TSN 2
+http://iptv12k.com:35461/80203091402/213445/10809
+#EXTINF:-1,TSN 3 SPORTS
+http://iptv12k.com:35461/80203091402/213445/10808
+#EXTINF:-1,TSN 3
+http://iptv12k.com:35461/80203091402/213445/10807
+#EXTINF:-1,TSN 4 SPORTS
+http://iptv12k.com:35461/80203091402/213445/10806
+#EXTINF:-1,TSN 4
+http://iptv12k.com:35461/80203091402/213445/10805
+#EXTINF:-1,TSN 5 SPORT
+http://iptv12k.com:35461/80203091402/213445/10804
+#EXTINF:-1,TSN 5
+http://iptv12k.com:35461/80203091402/213445/10803
+#EXTINF:-1,1sports
+http://iptv12k.com:35461/80203091402/213445/8976
+#EXTINF:-1,SONY SIX HD
+http://iptv12k.com:35461/80203091402/213445/8574
+#EXTINF:-1,SONY TEN 2 HD
+http://iptv12k.com:35461/80203091402/213445/8567
+#EXTINF:-1,SONY TEN 3 HD
+http://iptv12k.com:35461/80203091402/213445/8566
+#EXTINF:-1,PTV Sports HD
+http://iptv12k.com:35461/80203091402/213445/4857
+#EXTINF:-1,Star Sports 1   HD
+http://iptv12k.com:35461/80203091402/213445/8558
+#EXTINF:-1,Star Sports 1 HD Hindi
+http://iptv12k.com:35461/80203091402/213445/8557
+#EXTINF:-1,Star Sports 2   HD
+http://iptv12k.com:35461/80203091402/213445/8556
+#EXTINF:-1,Star Sports Select 1   HD
+http://iptv12k.com:35461/80203091402/213445/8555
+#EXTINF:-1,Star Sports Select 2  HD
+http://iptv12k.com:35461/80203091402/213445/8554
+#EXTINF:-1 group-title="Tataplay",Star Jalsha HD
+http://iptv12k.com:35461/80203091402/213445/8562
+#EXTINF:-1,Star Jalsha US BANGLA
+http://iptv12k.com:35461/80203091402/213445/4926
+#EXTINF:-1,Star Jalsha HD
+http://iptv12k.com:35461/80203091402/213445/8562
+#EXTINF:-1,star jalsha
+http://iptvtree.net:8080/adastream/8289548ca0/12979
+#EXTINF:-1,Zee Bangla HD
+http://iptv12k.com:35461/80203091402/213445/8478
+#EXTINF:-1,Zee Bangla Cinema
+http://iptv12k.com:35461/80203091402/213445/10036
+#EXTINF:-1,SONY AATH
+http://iptv12k.com:35461/80203091402/213445/8580
+#EXTINF:-1,Sony 8.
+http://iptv12k.com:35461/80203091402/213445/10067
+#EXTINF:-1,JALSHA MOVIES.
+http://iptv12k.com:35461/80203091402/213445/10087
+#EXTINF:-1,IN: ZEE BANGLA Cinema HD  BANGLA
+http://iptv12k.com:35461/80203091402/213445/4924
+#EXTINF:-1,COLORS BANGLA.
+http://iptv12k.com:35461/80203091402/213445/10100
+#EXTINF:-1,Colors Bangla Cinema
+http://iptv12k.com:35461/80203091402/213445/8896
+#EXTINF:-1,Enter 10 Bangla ltws
+http://103.132.181.98:81/play/a00n
+#EXTINF:-1,Bangala ABP Ananda BANGLA
+http://iptv12k.com:35461/80203091402/213445/4946
+#EXTINF:-1,Colors Bangla BANGLA
+http://iptv12k.com:35461/80203091402/213445/4941
+#EXTINF:-1,TV9 Bangla
+http://iptv12k.com:35461/80203091402/213445/8533
+#EXTINF:-1,ABP Ananda
+http://iptv12k.com:35461/80203091402/213445/8962
+#EXTINF:-1,Sony AATH ltws
+http://103.132.181.98:81/play/a009
+#EXTINF:-1,Animal Planet TataSky
+http://iptv12k.com:35461/80203091402/213445/8979
+#EXTINF:-1,SONY BBC Earth HD
+http://iptv12k.com:35461/80203091402/213445/8583
+#EXTINF:-1,History TV18 HD
+http://iptv12k.com:35461/80203091402/213445/8811
+#EXTINF:-1,DW TataSky
+http://iptv12k.com:35461/80203091402/213445/8869
+#EXTINF:-1,Discovery Kids
+http://iptv12k.com:35461/80203091402/213445/8863
+#EXTINF:-1,Cartoon Network HD+
+http://iptv12k.com:35461/80203091402/213445/8916
+#EXTINF:-1,Cartoon Network HD
+http://iptv12k.com:35461/80203091402/213445/8915
+#EXTINF:-1,Nick Jr TataSky
+http://iptv12k.com:35461/80203091402/213445/8671
+#EXTINF:-1,Nick HD+
+http://iptv12k.com:35461/80203091402/213445/8670
+#EXTINF:-1,SONY YAY
+http://iptv12k.com:35461/80203091402/213445/8581
+#EXTINF:-1,Disney
+http://iptv12k.com:35461/80203091402/213445/8857
+#EXTINF:-1,Disney Junior
+http://iptv12k.com:35461/80203091402/213445/8856
+#EXTINF:-1,Tata Sky Hollywood Local
+http://iptv12k.com:35461/80203091402/213445/8516
+#EXTINF:-1,pictures HD
+http://iptv12k.com:35461/80203091402/213445/8973
+#EXTINF:-1,Zee Cinema HD
+http://iptv12k.com:35461/80203091402/213445/8472
+#EXTINF:-1,Star GOLD HD
+http://iptv12k.com:35461/80203091402/213445/8563
+#EXTINF:-1,Goldmines
+http://iptv12k.com:35461/80203091402/213445/8822
+#EXTINF:-1,SONY WAH
+http://iptv12k.com:35461/80203091402/213445/8575
+#EXTINF:-1,B4U Movies
+http://iptv12k.com:35461/80203091402/213445/8939
+#EXTINF:-1,Enterr10
+http://iptv12k.com:35461/80203091402/213445/8841
+#EXTINF:-1,Big Magic
+http://iptv12k.com:35461/80203091402/213445/8928
+#EXTINF:-1,Colors Cineplex HD
+http://iptv12k.com:35461/80203091402/213445/8910
+#EXTINF:-1,Colors Cineplex
+http://iptv12k.com:35461/80203091402/213445/8907
+#EXTINF:-1,Public Movies
+http://iptv12k.com:35461/80203091402/213445/8645
+#EXTINF:-1,Zee Classic
+http://iptv12k.com:35461/80203091402/213445/8470
+#EXTINF:-1,Zee Hindustan
+http://iptv12k.com:35461/80203091402/213445/8467
+#EXTINF:-1,Zee Action
+http://iptv12k.com:35461/80203091402/213445/8481
+#EXTINF:-1,Zee Anmol Cinema
+http://iptv12k.com:35461/80203091402/213445/8480
+#EXTINF:-1,SAB HD SONY SAB
+http://iptv12k.com:35461/80203091402/213445/8619
+#EXTINF:-1,SET HD SONY SET
+http://iptv12k.com:35461/80203091402/213445/8618
+#EXTINF:-1,Colors HD ltws
+http://103.132.181.98:81/play/a00g
+#EXTINF:-1,Colors HD TataSky
+http://iptv12k.com:35461/80203091402/213445/8909
+#EXTINF:-1,Colors Rishtey
+http://iptv12k.com:35461/80203091402/213445/8908
+#EXTINF:-1,Shemaroo TV
+http://iptv12k.com:35461/80203091402/213445/8592
+#EXTINF:-1,STAR Plus HD TataSky
+http://iptv12k.com:35461/80203091402/213445/8615
+#EXTINF:-1,Tata Sky Astro Duniya
+http://iptv12k.com:35461/80203091402/213445/8525
+#EXTINF:-1,Tata Sky Beauty
+http://iptv12k.com:35461/80203091402/213445/8524
+#EXTINF:-1,Tata Sky Cooking
+http://iptv12k.com:35461/80203091402/213445/8523
+#EXTINF:-1,Tata Sky ENGLISH in Hindi
+http://iptv12k.com:35461/80203091402/213445/8522
+#EXTINF:-1,Tata Sky Fitness
+http://iptv12k.com:35461/80203091402/213445/8520
+#EXTINF:-1,Tata Sky Fun Learn Junior
+http://iptv12k.com:35461/80203091402/213445/8519
+#EXTINF:-1,Tata Sky JEE Prep
+http://iptv12k.com:35461/80203091402/213445/8514
+#EXTINF:-1,Tata Sky Romance
+http://iptv12k.com:35461/80203091402/213445/8510
+#EXTINF:-1,Tata Sky SMART MANAGER
+http://iptv12k.com:35461/80203091402/213445/8509
+#EXTINF:-1,Tata Sky Shorts TV
+http://iptv12k.com:35461/80203091402/213445/8507
+#EXTINF:-1,Tata Sky VEDIC MATHS
+http://iptv12k.com:35461/80203091402/213445/8505
+#EXTINF:-1,TEZ GNT
+http://iptv12k.com:35461/80203091402/213445/8539
+#EXTINF:-1,TIMES NOW
+http://iptv12k.com:35461/80203091402/213445/8538
+#EXTINF:-1,9XM
+http://iptv12k.com:35461/80203091402/213445/8969
+#EXTINF:-1,9X Jalwa
+http://iptv12k.com:35461/80203091402/213445/8968
+#EXTINF:-1,B4U Kadak
+http://iptv12k.com:35461/80203091402/213445/8938
+#EXTINF:-1,B4U Music
+http://iptv12k.com:35461/80203091402/213445/8937
+#EXTINF:-1,Colors Infinity HD TataSky
+http://iptv12k.com:35461/80203091402/213445/8911
+#EXTINF:-1,SONY PIX HD
+http://iptv12k.com:35461/80203091402/213445/8578
+#EXTINF:-1,&Flix HD
+http://iptv12k.com:35461/80203091402/213445/8975
+#EXTINF:-1,Banglavision
+http://iptv12k.com:35461/80203091402/213445/10822
+#EXTINF:-1,Bangla TV
+http://iptv12k.com:35461/80203091402/213445/10821
+#EXTINF:-1,ATN TV
+http://iptv12k.com:35461/80203091402/213445/10820
+#EXTINF:-1,ATN BANGLA
+http://iptv12k.com:35461/80203091402/213445/10819
+#EXTINF:-1,ATN Bangla
+http://iptv12k.com:35461/80203091402/213445/10818
+#EXTINF:-1,ASIAN TV
+http://iptv12k.com:35461/80203091402/213445/10816
+#EXTINF:-1,aljazeera TV
+http://iptv12k.com:35461/80203091402/213445/10815
+#EXTINF:-1,AL Istiqama TV
+http://iptv12k.com:35461/80203091402/213445/10814
+#EXTINF:-1,AL Istiqama TV
+http://iptv12k.com:35461/80203091402/213445/10117
+#EXTINF:-1,aljazeera TV.
+http://iptv12k.com:35461/80203091402/213445/10116
+#EXTINF:-1,ASIAN TV
+http://iptv12k.com:35461/80203091402/213445/10115
+#EXTINF:-1,ATN Bangla
+http://iptv12k.com:35461/80203091402/213445/10113
+#EXTINF:-1,ATN BANGLA UK.
+http://iptv12k.com:35461/80203091402/213445/10112
+#EXTINF:-1,ATN TV.
+http://iptv12k.com:35461/80203091402/213445/10110
+#EXTINF:-1,Bangla TV.
+http://iptv12k.com:35461/80203091402/213445/10109
+#EXTINF:-1,BOISHAKHI TV.
+http://iptv12k.com:35461/80203091402/213445/10105
+#EXTINF:-1,Carina TV.
+http://iptv12k.com:35461/80203091402/213445/10104
+#EXTINF:-1,CHANNEL 24.
+http://iptv12k.com:35461/80203091402/213445/10103
+#EXTINF:-1,CHANNEL I.
+http://iptv12k.com:35461/80203091402/213445/10101
+#EXTINF:-1,DD.
+http://iptv12k.com:35461/80203091402/213445/10099
+#EXTINF:-1,DESH TV.
+http://iptv12k.com:35461/80203091402/213445/10098
+#EXTINF:-1,Deshe Bideshe.
+http://iptv12k.com:35461/80203091402/213445/10097
+#EXTINF:-1,DHOOM MUSIC.
+http://iptv12k.com:35461/80203091402/213445/10096
+#EXTINF:-1,EKUSHEY TV.
+http://iptv12k.com:35461/80203091402/213445/10095
+#EXTINF:-1,ETG TV.
+http://iptv12k.com:35461/80203091402/213445/10094
+#EXTINF:-1,ETV  TV.
+http://iptv12k.com:35461/80203091402/213445/10093
+#EXTINF:-1,G TV.
+http://iptv12k.com:35461/80203091402/213445/10092
+#EXTINF:-1,Gazi TV.
+http://iptv12k.com:35461/80203091402/213445/10091
+#EXTINF:-1,iQRA TV.
+http://iptv12k.com:35461/80203091402/213445/10089
+#EXTINF:-1,Independent TV.
+http://iptv12k.com:35461/80203091402/213445/10088
+#EXTINF:-1,Jamuna tv.
+http://iptv12k.com:35461/80203091402/213445/10086
+#EXTINF:-1,Jonakk TV.
+http://iptv12k.com:35461/80203091402/213445/10085
+#EXTINF:-1,Maasaranga.
+http://iptv12k.com:35461/80203091402/213445/10083
+#EXTINF:-1,MOHONA TV.
+http://iptv12k.com:35461/80203091402/213445/10082
+#EXTINF:-1,MY TV.
+http://iptv12k.com:35461/80203091402/213445/10081
+#EXTINF:-1,Nandan TV.
+http://iptv12k.com:35461/80203091402/213445/10080
+#EXTINF:-1,NEWS24 TV.
+http://iptv12k.com:35461/80203091402/213445/10078
+#EXTINF:-1,NTV.
+http://iptv12k.com:35461/80203091402/213445/10077
+#EXTINF:-1,NTV EU.
+http://iptv12k.com:35461/80203091402/213445/10076
+#EXTINF:-1,MADANI
+http://iptv12k.com:35461/80203091402/213445/10075
+#EXTINF:-1,RA INEWS 24 TV.
+http://iptv12k.com:35461/80203091402/213445/10074
+#EXTINF:-1,RTP TV.
+http://iptv12k.com:35461/80203091402/213445/10073
+#EXTINF:-1,RTV.
+http://iptv12k.com:35461/80203091402/213445/10072
+#EXTINF:-1,SA TV.
+http://iptv12k.com:35461/80203091402/213445/10071
+#EXTINF:-1,Sangeet Bangla.
+http://iptv12k.com:35461/80203091402/213445/10070
+#EXTINF:-1,Somoy tv.
+http://iptv12k.com:35461/80203091402/213445/10068
+#EXTINF:-1,Tazza Khobor TV.
+http://iptv12k.com:35461/80203091402/213445/10064
+#EXTINF:-1,TVT TV.
+http://iptv12k.com:35461/80203091402/213445/10061
+#EXTINF:-1,ZEE Bangla.
+http://iptv12k.com:35461/80203091402/213445/10060
+#EXTINF:-1,Zee Bangla Cinema.
+http://iptv12k.com:35461/80203091402/213445/10059
+#EXTINF:-1,ATN.
+http://iptv12k.com:35461/80203091402/213445/10056
+#EXTINF:-1,ATN NEWS.
+http://iptv12k.com:35461/80203091402/213445/10055
+#EXTINF:-1,BOISAKHI.
+http://iptv12k.com:35461/80203091402/213445/10054
+#EXTINF:-1,Channel 9.
+http://iptv12k.com:35461/80203091402/213445/10053
+#EXTINF:-1,Channel S.
+http://iptv12k.com:35461/80203091402/213445/10052
+#EXTINF:-1,DESH  TV.
+http://iptv12k.com:35461/80203091402/213445/10051
+#EXTINF:-1,EKUSHEY TV.
+http://iptv12k.com:35461/80203091402/213445/10049
+#EXTINF:-1,Gaan.
+http://iptv12k.com:35461/80203091402/213445/10048
+#EXTINF:-1,IQRA.
+http://iptv12k.com:35461/80203091402/213445/10047
+#EXTINF:-1,VISION.
+http://iptv12k.com:35461/80203091402/213445/10044
+#EXTINF:-1,DD Bangla.
+http://iptv12k.com:35461/80203091402/213445/10041
+#EXTINF:-1,Sangeet_Bangla.
+http://iptv12k.com:35461/80203091402/213445/10039
+#EXTINF:-1,Ekattor HD.
+http://iptv12k.com:35461/80203091402/213445/10033
+#EXTINF:-1,taposh TV.
+http://iptv12k.com:35461/80203091402/213445/10031
+#EXTINF:-1,92news.
+http://iptv12k.com:35461/80203091402/213445/10030
 
 
 
