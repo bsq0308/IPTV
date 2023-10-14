@@ -1,0 +1,147 @@
+﻿
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJhxzfhS/RCTI.png" group-title="NASIONAL",RCTI 
+http://iptvid.my.id/hmm/Isekai/Nouka/rcti.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13bT4JpK/mnctv.png" group-title="NASIONAL",MNC TV 
+http://nxanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
+http://iptvid.my.id/hmm/Isekai/Nouka/mnctv.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d04y4S42/GTV.png" group-title="NASIONAL",GTV 
+http://iptvid.my.id/hmm/Isekai/Nouka/global.m3u8
+#EXTINF:-1 tvg-id="inews.id" tvg-logo="https://i.postimg.cc/90SdQqyD/INews.png",iNews 
+http://iptvid.my.id/hmm/Isekai/Nouka/inews.m3u8
+#EXTINF:-1 tvg-id="sctv.id" tvg-logo="https://i.postimg.cc/W3Q2XNvB/sctv.png",SCTV 
+http://iptvid.my.id/hmm/Isekai/Nouka/sctv.m3u8
+#EXTINF:-1 tvg-id="sctv.id" tvg-logo="https://i.postimg.cc/W3Q2XNvB/sctv.png",SCTV HD 
+http://iptvid.my.id/hmm/Isekai/Nouka/sctv2.m3u8
+#EXTINF:-1 tvg-id="indosiar.id" tvg-logo="https://i.postimg.cc/SxB2STr4/indosiar.png",Indosiar 
+http://iptvid.my.id/hmm/Isekai/Nouka/indosiar.m3u8
+#EXTINF:-1 tvg-id="indosiar.id" tvg-logo="https://i.postimg.cc/SxB2STr4/indosiar.png",Indosiar HD 
+http://iptvid.my.id/hmm/Isekai/Nouka/indosiar3.m3u8
+#EXTINF:-1 tvg-id="indosiar.id" tvg-logo="https://i.postimg.cc/SxB2STr4/indosiar.png",Indosiar HD 
+http://iptvid.my.id/hmm/Isekai/Nouka/indosiar2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5dMX2gh/transvt.png" group-title="NASIONAL",Trans TV HD
+http://iptvid.my.id/hmm/Isekai/Nouka/transtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4dHCNy2m/trans7.png" group-title="NASIONAL",Trans 7 HD
+http://iptvid.my.id/hmm/Isekai/Nouka/trans7.m3u8
+#EXTINF:-1 tvg-id="tvone.id" tvg-logo="https://i.postimg.cc/7Lrh8CHY/tvone.png" group-title="NASIONAL",TV One HD
+http://iptvid.my.id/hmm/Isekai/Nouka/tvone1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yMPN9WM/antv.png" group-title="NASIONAL",ANTV HD
+http://iptvid.my.id/hmm/Isekai/Nouka/antv.m3u8
+#EXTINF:-1 tvg-id="ochannel.id" tvg-logo="https://i.postimg.cc/dVQNWDYg/moji.png",Moji HD 
+http://iptvid.my.id/hmm/Isekai/Nouka/moji.m3u8
+#EXTINF:-1 tvg-id="ochannel.id" tvg-logo="https://i.postimg.cc/dVQNWDYg/moji.png",Moji HD 
+http://iptvid.my.id/hmm/Isekai/Nouka/moji2.m3u8
+#EXTINF:-1 group-title="NASIONAL"  tvg-logo="https://i.postimg.cc/ZRCNWx4J/metro.png",METRO TV HD
+http://iptvid.my.id/hmm/Isekai/Nouka/metrotv.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J48kJ2Vz/rajawali.png" group-title="NASIONAL",RTV HD
+http://iptvid.my.id/hmm/Isekai/Nouka/rtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTypkfGy/mentari.png" group-title="NASIONAL", Mentari TV
+http://iptvid.my.id/hmm/Isekai/Nouka/mentari.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZp2fS1m/magna.png" group-title="NASIONAL",Magna Channel FHD
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1617930242_b3884000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJQ9D3z7/net.png" group-title="NASIONAL",NET HD
+http://iptvid.my.id/hmm/Isekai/Nouka/nettv.m3u8
+#EXTINF:-1 tvg-id="kompastv.id" tvg-logo="https://i.postimg.cc/jq9kMM1Y/kompastv.png",Kompas TV HD 
+http://iptvid.my.id/hmm/Isekai/Nouka/kompastv.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x82RLV8z/cnbcindo.png" group-title="NASIONAL", CNBC Indonesia
+http://iptvid.my.id/hmm/Isekai/Nouka/cnbc.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jj7Rj6GX/jtv.png" group-title="NASIONAL", JTV
+http://iptvid.my.id/hmm/Isekai/Nouka/jteve.m3u8
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.postimg.cc/5NFZwhnC/tvri.png",TVRI Nasional
+http://iptvid.my.id/hmm/Isekai/Nouka/tvri.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="paramount" tvg-logo="http://iptvid.my.id/hmm/Isekai/Nouka/Ongistvku1.png" group-title="MOVIES",Paramount
+http://iptvid.my.id/hmm/Isekai/Nouka/prmount.m3u8
+#EXTINF:0 tvg-id="Celestial Movies" tvg-name="Celestial Movies" tvg-logo="http://www.mncvision.id.E" tvg-logo="http://iptvid.my.id/hmm/Isekai/Nouka/Ongistvku1.png" group-title="MOVIES",Celestial Movies
+http://iptvid.my.id/hmm/Isekai/Nouka/celmovie.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://iptvid.my.id/hmm/Isekai/Nouka/Ongistvku1.png" group-title="MOVIES",tvN Movies
+http://iptvid.my.id/hmm/Isekai/Nouka/tvnmovies.m3u8
+#EXTINF:0 tvg-id="ZEE Bioskop" tvg-name="ZEE Biokop" tvg-logo="http://iptvid.my.id/hmm/Isekai/Nouka/Ongistvku1.png" group-title="MOVIES",ZEE BIOSKOP
+http://iptvid.my.id/hmm/Isekai/Nouka/zeebio.m3u8
+#EXTINF:-1 tvg-id="AXNEastAsia.us" tvg-name="AXN" tvg-logo="http://iptvid.my.id/hmm/Isekai/Nouka/Ongistvku1.png" group-title="MOVIES",AXN
+http://iptvid.my.id/hmm/Isekai/Nouka/axn.m3u8
+#EXTINF:0 tvg-id="Warner TV" tvg-name="Warner Tv" tvg-logo="http://iptvid.my.id/hmm/Isekai/Nouka/Ongistvku1.png" group-title="MOVIES",Warner TV
+http://iptvid.my.id/hmm/Isekai/Nouka/warner.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://iptvid.my.id/hmm/Isekai/Nouka/Ongistvku1.png",HITS 
+http://iptvid.my.id/hmm/Isekai/Nouka/hits.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://iptvid.my.id/hmm/Isekai/Nouka/Ongistvku1.png",HITS Movies
+http://iptvid.my.id/hmm/Isekai/Nouka/hitmovie.m3u8
+
+
+#EXTINF:0 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="http://iptvid.my.id/hmm/Isekai/Nouka/Ongistvku1.png" group-title="MOVIES",Thrill
+http://iptvid.my.id/hmm/Isekai/Nouka/thrill.m3u8
+#EXTINF:-1 tvg-logo="http://iptvid.my.id/hmm/Isekai/Nouka/Ongistvku1.png" group-title="MOVIES",Rock Action
+http://iptvid.my.id/hmm/Isekai/Nouka/rockact.m3u8
+#########
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueant_small.png" group-title="ENTERTAINMENT",Rock Entertainment
+http://iptvid.my.id/hmm/Isekai/Nouka/rockent.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_paramount_ver1.png" group-title="ENTERTAINMENT",Paramount 
+http://iptvid.my.id/hmm/Isekai/Nouka/prmount.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvPDScRW/20221111-161949.png" group-title="ENTERTAINMENT",ONE
+http://iptvid.my.id/hmm/Isekai/Nouka/one.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/KIX_LOGO_150x150.jpg",KIX
+http://iptvid.my.id/hmm/Isekai/Nouka/kix.m3u8
+#EXTINF:-1  tvg-id="ext" group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/rGTHbAM.png", Sony GEM 
+http://iptvid.my.id/hmm/Isekai/Nouka/gem.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6r0QjKY.png" group-title="ENTERTAINMENT",Citra Entertainment 
+http://iptvid.my.id/hmm/Isekai/Nouka/citraent.m3u8
+#EXTINF:-1 tvg-id="IonPlus.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.postimg.cc/sDJHstYd/K-Plus-Asia-Logo-1-removebg-preview.png" group-title="ENTERTAINMENT",KPlus
+http://iptvid.my.id/hmm/Isekai/Nouka/kplus.m3u8
+#EXTINF:-1 tvg-name="ID: Citra Dangdut" tvg-logo="http://iptvid.my.id/hmm/Isekai/Nouka/Ongistvku1.png" group-title="ENTERTAINMENT", Citra Dangdut
+http://iptvid.my.id/hmm/Isekai/Nouka/cdangdut.m3u8
+
+####################################################################
+############ lifestyle #######################################
+
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://i.postimg.cc/9fxqC5J8/20220926-201913.png",Asian Food Network 
+http://iptvid.my.id/hmm/Isekai/Nouka/afn.m3u8
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://i.postimg.cc/7L4Dt4KD/20230203-212322.png",Food Network 
+http://iptvid.my.id/hmm/Isekai/Nouka/foodnetw.m3u8
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://i.postimg.cc/Dyw0hd7J/20221111-162109.png",HGTV Asia 
+http://iptvid.my.id/hmm/Isekai/Nouka/hgtv.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEOIuoQ_oXPdWz8eBvpsQ7Cgl7fc0dpD8nEQ&usqp=CAU" group-title="LIFESTYLE",Lifestyle 
+http://iptvid.my.id/hmm/Isekai/Nouka/lifestyle.m3u8
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://i.postimg.cc/1tfVzCd9/20220926-201851.png",TLC
+http://iptvid.my.id/hmm/Isekai/Nouka/tlc.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_202.png",National Geographic 
+http://iptvid.my.id/hmm/Isekai/Nouka/natgeo.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/FzHrk5Wk/discoverychannel.png",Discovery Channel 
+http://iptvid.my.id/hmm/Isekai/Nouka/dischanel.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/discovery_channel.png",Discovery Asia
+http://iptvid.my.id/hmm/Isekai/Nouka/discasia.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/bwWPFZzm/natgeo.png",National Geographic Wild
+http://iptvid.my.id/hmm/Isekai/Nouka/natwild.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/j5BXsGqp/20230210-090218.png" group-title="KNOWLEDGE",DMAX
+http://iptvid.my.id/hmm/Isekai/Nouka/dmax.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-id="discoveryturbouk.uk" tvg-logo="https://i.postimg.cc/RhjKg87N/20230524-164646.png",Discovery Turbo
+http://iptvid.my.id/hmm/Isekai/Nouka/discturbo.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/gcV0XHYm/animalplanet.png",Animal Planet 
+http://iptvid.my.id/hmm/Isekai/Nouka/animalplanet.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zvZSdSMq/lovenatur.png" group-title="KNOWLEDGE", LOVE NATURE 
+http://iptvid.my.id/hmm/Isekai/Nouka/lovnatur.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_205.png",CGTN Documentary 
+http://iptvid.my.id/hmm/Isekai/Nouka/cgtndoc.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/logo-ci.jpg",Crime Investigation  
+http://iptvid.my.id/hmm/Isekai/Nouka/criminvt.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NTRFMvw/TECHSTORM.png" group-title="KNOWLEDGE", TechStorm 
+http://iptvid.my.id/hmm/Isekai/Nouka/techstorm.m3u8
+#EXTINF:-1 tvg-id="551.astro" tvg-logo="https://i.postimg.cc/2SzL8Xvs/Global-Trekker.png" group-title="KNOWLEDGE",Global Trekker
+http://iptvid.my.id/hmm/Isekai/Nouka/gtrekker.m3u8
+
+
+###############################################################################################
+#############  KIDS  ###################################
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cartoon_network.png",Cartoon Network 
+http://iptvid.my.id/hmm/Isekai/Nouka/carnetw.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1200px-Animax.svg.png" group-title="KIDS", Animax
+#http://iptvid.my.id/hmm/Isekai/Nouka/animax.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-id="aniplus.th" tvg-logo="https://i.ibb.co/XtS10LN/Aniplushd.png",AniPlus
+http://iptvid.my.id/hmm/Isekai/Nouka/aniplus.m3u8
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkyQfTrhg5cbNDbKSgf47fQxXrgRHBoij1NuHz8YBUV3wMWHU1tGoRJipukKAIkHbBSy8&usqp=CAU" group-title="KIDS",HOOREE
+http://iptvid.my.id/hmm/Isekai/Nouka/hooree.m3u8
+_dash_vmx/TV9.mpd
