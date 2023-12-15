@@ -1,0 +1,15 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="爱沙尼亚",etv
+udp://@239.3.1.106:1234
+#EXTINF:-1 group-title="爱沙尼亚",etv2
+udp://@239.3.1.107:1234
+#EXTINF:-1 group-title="爱沙尼亚",etvsd
+udp://@239.3.1.1:1234
+#EXTINF:-1 group-title="爱沙尼亚",etv2sd
+udp://@239.9.14.2:1234
+#EXTINF:-1 group-title="爱沙尼亚",k2
+udp://@239.3.1.2:1234
+#EXTINF:-1 group-title="爱沙尼亚",tv3
+udp://@239.3.1.3:1234
+#EXTINF:-1 group-title="爱沙尼亚",r2
+udp://@239.3.12.101:1234
