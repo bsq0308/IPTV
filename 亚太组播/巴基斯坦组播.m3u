@@ -1,0 +1,159 @@
+﻿#EXTINF:6,Samma TV
+udp://@239.194.0.81:6081
+#EXTINF:9,Abb Takk
+udp://@239.194.0.58:6058
+#EXTINF:10,24 Channel
+udp://@239.194.0.179:6179
+#EXTINF:11,Capital TV
+udp://@239.194.0.79:6079
+#EXTINF:13,Channel 5
+udp://@239.194.0.30:6030
+#EXTINF:14,JAAG
+udp://@239.194.0.92:6092
+#EXTINF:16,Geo Taiz
+udp://@239.194.0.8:6008
+#EXTINF:17,Roze News
+udp://@239.194.0.44:6044
+#EXTINF:19,Neo TV
+udp://@239.194.0.180:6180
+#EXTINF:20,Waqt News
+udp://@239.194.0.82:6082
+#EXTINF:21,Such TV
+udp://@239.194.0.163:6163
+#EXTINF:22,Din News
+udp://@239.194.0.39:6039
+#EXTINF:23,News One
+udp://@239.194.0.29:6029
+#EXTINF:24,Royal News
+udp://@239.194.0.153:6153
+#EXTINF:25,News 7
+udp://@239.194.0.159:6159
+#EXTINF:26,Business plus
+udp://@239.194.0.68:6068
+#EXTINF:37,TV One
+udp://@239.194.0.62:6062
+#EXTINF:38,Hum Sitaray
+udp://@239.194.0.61:6161
+#EXTINF:43,Kohenoor TV
+udp://@239.194.0.5:6005
+#EXTINF:44,Raavi TV
+udp://@239.194.0.144:6144
+#EXTINF:45,Times Entertainment
+udp://@239.194.0.184:6184
+#EXTINF:47,Silver Screen
+udp://@239.194.0.47:6047
+#EXTINF:48,Filmazia
+udp://@239.194.0.32:6032
+#EXTINF:50,FILMAX
+udp://@239.194.0.31:6031
+#EXTINF:52,Zaiqa
+udp://@239.194.0.40:6040
+#EXTINF:57,Animax
+#EXTTV:Kids;English;
+udp://@239.194.0.57:6057
+#EXTINF:58,Toonami
+#EXTTV:Kids;English;
+udp://@239.194.0.35:6035
+#EXTINF:59,Health TV
+udp://@239.194.0.89:6089
+#EXTINF:62,Jalwa
+udp://@239.194.0.176:6176
+#EXTINF:63,Ary Musik
+udp://@239.194.0.55:6055
+#EXTINF:64,National Geographics
+udp://@239.194.0.16:6016
+#EXTINF:65,Discovery Channel
+udp://@239.194.0.50:6050
+#EXTINF:66,Nat Geo people
+udp://@239.194.0.90:6090
+#EXTINF:68,History TV
+udp://@239.194.0.49:6049
+#EXTINF:69,Travel
+udp://@239.194.0.149:6149
+#EXTINF:70,PTV Sports
+udp://@239.194.0.11:6011
+#EXTINF:71,TEN Sports
+#EXTTV:Sports;English;
+udp://@239.194.0.41:6041
+#EXTINF:72,Geo Super
+udp://@239.194.0.70:6070
+#EXTINF:74,Spell Movies
+udp://@239.194.0.103:6103
+#EXTINF:75,HBO
+udp://@239.194.0.53:6053
+#EXTINF:76,Warner Brother
+udp://@239.194.0.2:6002
+#EXTINF:77,AXN
+udp://@239.194.0.63:6063
+#EXTINF:79,MBC Max
+udp://@239.194.0.166:6166
+#EXTINF:81,PTV World
+udp://@239.194.0.27:6027
+#EXTINF:83,CNN
+udp://@239.194.0.95:6095
+#EXTINF:84,BBC
+udp://@239.194.0.69:6069
+#EXTINF:85,RT News
+udp://@239.194.0.156:6156
+#EXTINF:86,CCTV NEWS
+udp://@239.194.0.105:6105
+#EXTINF:88,Bloomberg
+udp://@239.194.0.147:6147
+#EXTINF:90,PTV National
+udp://@239.194.0.162:6162
+#EXTINF:91,PTV Bolan
+udp://@239.194.0.178:6178
+#EXTINF:92,PTV Global
+udp://@239.194.0.100:6100
+#EXTINF:93,K 21
+udp://@239.194.0.33:6033
+#EXTINF:94,Metro One
+udp://@239.194.0.85:6085
+#EXTINF:98,VSH News
+udp://@239.194.0.141:6141
+#EXTINF:99,Khyber TV
+udp://@239.194.0.87:6087
+#EXTINF:100,Khyber News
+udp://@239.194.0.172:6172
+#EXTINF:102,PASHTO 1
+udp://@239.194.0.182:6182
+#EXTINF:103,Afghan Tv
+udp://@239.194.0.175:6175
+#EXTINF:104,Mashriq Tv
+udp://@239.194.0.78:6078
+#EXTINF:105,Apna Channel
+udp://@239.194.0.102:6102
+#EXTINF:106,KTN
+udp://@239.194.0.88:6088
+#EXTINF:107,KTN News
+udp://@239.194.0.145:6145
+#EXTINF:108,Kashish
+udp://@239.194.0.160:6160
+#EXTINF:109,Sindh TV News
+udp://@239.194.0.98:6098
+#EXTINF:110,Sind TV
+udp://@239.194.0.91:6091
+#EXTINF:114,Rohi TV
+udp://@239.194.0.167:6167
+#EXTINF:115,Waseeb
+udp://@239.194.0.61:6061
+#EXTINF:116,Vibe TV
+udp://@239.194.0.34:6034
+#EXTINF:117,Aruj TV
+udp://@239.194.0.174:6174
+#EXTINF:118,SBN TV
+udp://@239.194.0.152:6152
+#EXTINF:119,VTV 1
+udp://@239.194.0.140:6140
+#EXTINF:120,VTV 2
+udp://@239.194.0.59:6059
+#EXTINF:123,Q TV
+udp://@239.194.0.52:6052
+#EXTINF:124,Al Quran Al kareem
+udp://@239.194.0.26:6026
+#EXTINF:125,Al sunnah Al Nabavi
+udp://@239.194.0.155:6155
+#EXTINF:126,Star Asia
+udp://@239.194.0.45:6045
+#EXTINF:128,Punjab
+udp://@239.194.0.38:6038
